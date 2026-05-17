@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>osqp</name>
+  <version>1.0.0</version>
+  <description>Operator Splitting Quadratic Program (OSQP) solver, in-tree</description>
+  <maintainer email="aravindev@live.in">Aravind EV</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
